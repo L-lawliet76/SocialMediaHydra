@@ -3,6 +3,7 @@
 
 AutoHydra is a project developed to revise C programming for myself. It is designed to automate the use of the Hydra tool for brute-forcing social media accounts.
 Currently it's not in working condition, you may need to make changes to `AutoHydra.c` in order to use it fully.
+I might be working on it in future.
 
 # Contributing
 
