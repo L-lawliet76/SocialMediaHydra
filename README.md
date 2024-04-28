@@ -22,7 +22,7 @@ Thank you for contributing to AutoHydra!
 
 To use AutoHydra, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/L-lawliet76/L.Lawliet`
+1. Clone the repository: `git clone https://github.com/L-lawliet76/SocialMediaHydra`
 2. Compile the code: `gcc AutoHydra.c -o AutoHydra`
 
 ## Usage
