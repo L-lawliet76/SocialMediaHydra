@@ -9,7 +9,7 @@ I might be working on it in future.
 
 Contributions are welcome! If you'd like to contribute to AutoHydra, please follow these steps:
 
-    Fork the repository and create your branch from main.
+ Fork the repository and create your branch from main.
     Make your changes and test them thoroughly.
     Ensure your code follows the project's coding conventions.
     Commit your changes with clear and descriptive messages.
